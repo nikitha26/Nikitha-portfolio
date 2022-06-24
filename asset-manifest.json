@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Nikitha-portfolio/static/css/main.a68ce067.chunk.css",
+    "main.css": "/Nikitha-portfolio/static/css/main.2614c036.chunk.css",
     "main.js": "/Nikitha-portfolio/static/js/main.27e2fe86.chunk.js",
     "main.js.map": "/Nikitha-portfolio/static/js/main.27e2fe86.chunk.js.map",
     "runtime-main.js": "/Nikitha-portfolio/static/js/runtime-main.8cd9413e.js",
@@ -8,13 +8,13 @@
     "static/js/2.3bf9c6eb.chunk.js": "/Nikitha-portfolio/static/js/2.3bf9c6eb.chunk.js",
     "static/js/2.3bf9c6eb.chunk.js.map": "/Nikitha-portfolio/static/js/2.3bf9c6eb.chunk.js.map",
     "index.html": "/Nikitha-portfolio/index.html",
-    "static/css/main.a68ce067.chunk.css.map": "/Nikitha-portfolio/static/css/main.a68ce067.chunk.css.map",
+    "static/css/main.2614c036.chunk.css.map": "/Nikitha-portfolio/static/css/main.2614c036.chunk.css.map",
     "static/js/2.3bf9c6eb.chunk.js.LICENSE.txt": "/Nikitha-portfolio/static/js/2.3bf9c6eb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8cd9413e.js",
     "static/js/2.3bf9c6eb.chunk.js",
-    "static/css/main.a68ce067.chunk.css",
+    "static/css/main.2614c036.chunk.css",
     "static/js/main.27e2fe86.chunk.js"
   ]
 }
