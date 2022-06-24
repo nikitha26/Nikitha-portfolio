@@ -7,10 +7,10 @@ const header = {
 const about = {
   // all the properties are optional - can be left empty or deleted
   name: 'Nikitha',
-  role: 'Front End Engineer',
+  role: 'React Js Developer',
   description:
-    "I'm Software Engineer & Programmer Living in Hyderabad,India.I have 1+ years of professional experience in Front End Development.I have diverse set of skills React,NPM,Axios,JavaScript,HTML,Css etc.",
-  resume: 'https://example.com',
+    "I'm Software Engineer & Programmer Living in Hyderabad,India.I have 1+ years of professional experience in React Js Development. I have diverse set of skills React,React Hooks,NPM,Axios,JavaScript,HTML,Css,Rest API Integration etc.",
+  resume: 'Nikitha-ReactDeveloper.pdf',
   social: {
     linkedin: 'https://www.linkedin.com/in/nikithamalkapuram/',
     github: 'https://github.com/nikitha26',
